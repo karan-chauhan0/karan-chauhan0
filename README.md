@@ -17,12 +17,12 @@ I’m always looking to learn new skills and improve my craft, with a focus on:
   <tr>
     <td>
       <a href="https://leetcode.com/_karanchauhan">
-        <img src="https://leetcard.jacoblin.cool/_karanchauhan?theme=dark&font=Stylish&ext=contest" alt="LeetCode Stats">
+        <img src="https://leetcard.jacoblin.cool/_karanchauhan?theme=dark&font=Stylish&ext=contest&border_radius=10&hide_rank=true" alt="LeetCode Stats">
       </a>
     </td>
     <td>
       <a href="https://codeforces.com/profile/Karanchauhan">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Karanchauhan" alt="Codeforces Stats">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Karanchauhan&theme=dark&font=Stylish&border_radius=10" alt="Codeforces Stats"/>
       </a>
     </td>
   </tr>
