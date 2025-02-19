@@ -17,7 +17,7 @@ I’m always looking to learn new skills and improve my craft, with a focus on:
   <tr>
     <td>
       <a href="https://leetcode.com/_karanchauhan">
-        <img src="https://leetcard.jacoblin.cool/_karanchauhan?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats">
+        <img src="https://leetcard.jacoblin.cool/_karanchauhan?theme=dark&font=Stylish&ext=contest" alt="LeetCode Stats">
       </a>
     </td>
     <td>
