@@ -26,6 +26,12 @@ I’m always looking to learn new skills and improve my craft, with a focus on:
       </a>
     </td>
   </tr>
+<!--    <td>
+      <a href="https://www.codechef.com/users/karan952899">
+        <img src="https://raw.githubusercontent.com/karan952899/karan-chauhan0/main/codechef_card.png" alt="CodeChef Stats"/>
+      </a>
+    </td>
+  </tr> -->
 </table>
 
 ---
