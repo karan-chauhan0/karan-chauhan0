@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3em; font-family: 'Poppins', sans-serif;">
-    <img src="https://res.cloudinary.com/dvi3ksme2/image/upload/v1744968543/banner_jtfgqi.png" alt="banner" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 20px;">
+<!--     <img src="https://res.cloudinary.com/dvi3ksme2/image/upload/v1744968543/banner_jtfgqi.png" alt="banner" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 20px;"> -->
     Hi <a href="https://github.com/karan-chauhan0" target="blank">
     </a>, I'm <a href="https://github.com/karan-chauhan0">Karan</a> Singh chauhan
 </h1>
