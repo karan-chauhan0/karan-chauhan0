@@ -5,7 +5,7 @@
 </h1>
   <p align="center" style="font-size: 14px; font-weight: 500;">Web Developer | Mern Stack Developer</p>
   <p align="center" style="font-size: 14px; font-weight: 500;">📌 Dehradun, Uttarakhand (248198)</p>
-  <p align="center" style="font-size: 14px; font-weight: 500;"><a href="https://drive.google.com/file/d/1bHRv2XG7ac0-ZgSWyBysVtQ7IH7kUv1S/view?usp=sharing" target="_blank">💼 Resume Link</a></p>
+  <p align="center" style="font-size: 14px; font-weight: 500;"><a href="https://drive.google.com/file/d/16GI22400V9GftD6QqeDv1q9gjWNZ-AQN/view?usp=sharing" target="_blank">💼 Resume Link</a></p>
 <div>
     <h2>Who I am ?</h2>
     <ul style="list-style-type: none; padding: 0;">
